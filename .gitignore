@@ -1,0 +1,19 @@
+﻿# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+bin/
+obj/
+*.log
